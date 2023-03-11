@@ -1,0 +1,33 @@
+.container {
+    background-color: #333;
+	color: #eee;
+	width: 80%;
+	padding: 100px;
+	border-radius: 10px;
+}
+
+.botaoInicial a{
+	position: absolute;
+	z-index: 1;
+	display: block;
+	width: 97px;
+	height: 47px;
+	background: #da7603;
+	text-align: center;
+	line-height: 47px;
+	border-radius: 6px;
+	text-decoration: none;
+	color: #fff;
+	letter-spacing: 1px;
+}
+
+.botaoInicial a:hover {
+	background-color: #816403;
+	color: rgb(255, 255, 255);
+	cursor: pointer;
+}
+
+.copy p {
+	text-align: center;
+}
+
